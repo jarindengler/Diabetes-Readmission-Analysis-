@@ -1,4 +1,4 @@
-# Factors Associated with Hisatorical Hospital Readmission in Diabetic Patients
+# Factors Associated with Historical Hospital Readmission in Diabetic Patients
 
 ## Objective
 
