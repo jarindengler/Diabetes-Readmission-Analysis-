@@ -1,8 +1,8 @@
-# Factors Associated with 30-Day Hospital Readmission in Diabetic Patients
+# Factors Associated with Hisatorical Hospital Readmission in Diabetic Patients
 
 ## Objective
 
-This project analyzes hospital encounter data for diabetic patients to identify patterns associated with 30-day readmission. The goal is to explore whether patient demographics, healthcare utilization history, laboratory testing, and treatment changes are associated with increased likelihood of readmission.
+This project analyzes hospital encounter data for diabetic patients to identify patterns associated historical readmission. The goal is to explore whether patient demographics, healthcare utilization history, laboratory testing, and treatment changes are associated with increased likelihood of readmission.
 
 ---
 
@@ -32,7 +32,7 @@ Key variables include:
 
 ## Key Definitions
 
-- **Readmission** refers to hospital readmission within 30 days.
+- **Readmission** refers to historical hospital readmission.
 - Data cleaning included standardizing categorical values and handling missing entries.
 - Analysis focuses on associations rather than causal inference.
 
@@ -41,7 +41,7 @@ Key variables include:
 ## Findings
 
 ### Overall Readmission Rate
-The overall 30-day readmission rate is **47.02%** (11,754 of 25,000 encounters).
+The overall historical readmission rate is **47.02%** (11,754 of 25,000 encounters).
 
 ---
 
